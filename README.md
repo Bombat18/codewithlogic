@@ -3,15 +3,18 @@
 Download the zip file.
 
 Navigate to the project directory in the terminal using .
-```cd Q4```
+```bashcd Q4```
 Install dependencies by running 
-```npm install 
+```bash
+npm install 
 ```
 Check for funding opportunities by running .
 
-```npm fund
+```bash
+npm fund
 ```
 Run the following command to start the development server:
 
-```npm run dev
+```bash
+npm run dev
 ```
