@@ -3,10 +3,12 @@
 Download the zip file.
 
 Navigate to the project directory in the terminal using .
-```bash 
-cd Q4``` .
 
-Install dependencies by running 
+```bash 
+cd Q4
+``` 
+
+Install dependencies by running .
 ```bash
 npm install 
 ```
